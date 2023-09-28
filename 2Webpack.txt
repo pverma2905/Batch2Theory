@@ -1,0 +1,4 @@
+it is a module bundler that compress,minify js,css,images,Html so reduce file size and easily launch
+
+when project start it read the file index.html->index.js->app.js
+internally webpack bundler start and babel compiler to compile the project 

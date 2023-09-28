@@ -1,0 +1,21 @@
+=>React is used to build a spa application
+=>React allow create reusable ui component 
+=>it work on virtual dom
+=>it file size is less 10.7kb
+=> React support hot Reloading(Auto Refresh)
+=>index.js is the entry point file
+=>it has id root where all component are directly inject
+
+npx=>node package execute
+
+npm -v
+node -v
+npm install -g create-react-app
+npm install
+
+=> change port no in package.json 
+react-scripts start SET PORT=4000
+
+###############Type of component######################
+1)functional
+2)class

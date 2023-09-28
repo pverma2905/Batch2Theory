@@ -1,0 +1,1 @@
+1)how data pass from child to parent component in react?
